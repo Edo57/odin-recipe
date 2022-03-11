@@ -5,9 +5,12 @@ html{
     text-align: center;
 }
 h1{
-    font-size:40px;
+    font-size:50px;
     color: #ee3e80;
     
+}
+.colorh{
+    color: gold;
 }
 img{
     display: block;
